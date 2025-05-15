@@ -1,0 +1,7 @@
+POST http://localhost:8080/set
+Content-Type: application/json
+
+{
+    "key": "name",
+    "value": "InspectorGadget"
+}
